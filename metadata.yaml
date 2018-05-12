@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '1393'
     url: http://www.gutenberg.org/2009/agents/1393
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31992#Titanic
 gutenberg_issued: '2010-04-15'
 gutenberg_type: Text
 identifiers:
